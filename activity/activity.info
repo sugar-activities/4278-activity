@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Erase Double Click
+license = GPLv3+
+exec = .0sugar/launch +../GComprisContent.activity/.0sugar-injection/implementations bin/gcompris-activity
+activity_version = 14
+suggests = gcompris/media
+bundle_id = net.gcompris.erase2clic
+requires = gcompris/erase_2clic
+icon = erase_2clic
+
